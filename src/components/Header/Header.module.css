@@ -1,0 +1,12 @@
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--black);
+    padding: 1rem 10rem;
+}
+
+.header_links {
+    display: flex;
+    gap: 6rem;
+}
