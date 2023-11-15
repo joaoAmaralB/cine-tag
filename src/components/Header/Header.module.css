@@ -6,6 +6,10 @@
     padding: 1rem 10rem;
 }
 
+.image:hover {
+    cursor: pointer;
+}
+
 .header_links {
     display: flex;
     gap: 6rem;
